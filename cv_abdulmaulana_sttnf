@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CV Abdul Maulana</title>
+        <meta charset="UTF-8" />
+    </head>
+    <body>
+        <Center>
+            
+            <h1 allign="center">CURRICULUM VITAE</h1>
+            <div id="main" class="active">
+                <img src="foto gw.jpg" />
+            </div>
+        </Center>
+       <br>
+       <p align="center">
+                Abdul maulana adalah seorang yang biasa aja, gak ada yang special didalam dirinya.
+           Manusia yang satu ini tinggal didaerah Tapos depok kota dengan sejuta kemacetan, ia memiliki 
+       </p>
+       
+        <h1>Biodata</h1>
+        <ol>
+            <li>Nama : Abdul Maulana </li>
+            <li>TTL : Bogor, 08 November 1988</li>
+            <li>Alamat : Tapos - Depok </li>
+            <li>Pekerjaan : Karyawan Swasta</li>
+            <li>Agama : Islam</li>
+            <li>Golongan Darah : O</li>
+            <li>Instagram : <a href="https://instagram.com/a.d.u.l/?hl=en">@a.d.u.l </a>
+            <br>
+
+        </ol>
+        
+        <h1>Riwayat Pendidikan</h1>
+        <table border="2" cellpadding="10">
+            <tr>
+                <td><b>No</b></td>
+                <td><b><center>Nama Sekolah</center></b></td>
+                <td><b><center>Lulus</center></b></td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>MI Al HIdayah</td>
+                <td><center>1999-2000</center></td>
+
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>SMP Negeri 11 Depok</td>
+                <td><center>2002-2003</center></td>
+
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>SMK Al Wahyu Cibubur</td>
+                <td><center>2005-2006</center></td>
+
+           
+
+            </tr>
+        </table>
+    </body>
+</html>
